@@ -6,3 +6,7 @@ Features:
 2)Server-side session management for enhanced security
 3)Customizable CAPTCHA settings (length, dimensions)
 4)Easy to integrate into existing Flask application
+
+
+Output:
+![image](https://github.com/user-attachments/assets/b561af86-b16d-4504-9645-5c06431893f2)
