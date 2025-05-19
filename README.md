@@ -15,7 +15,7 @@ This project demonstrates a simple yet effective **CAPTCHA validation system** u
 
 ## 📸 Screenshots
 
-| Form Display | CAPTCHA Feedback |
+| Form Display | CAPTCHA Workflow |
 |--------------|------------------|
 | ![Form](https://github.com/user-attachments/assets/b561af86-b16d-4504-9645-5c06431893f2) | ![Feedback](https://github.com/user-attachments/assets/c95b9441-eb52-4237-a289-207dbb3ec545) |
 
