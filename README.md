@@ -1,12 +1,39 @@
-Flask CAPTCHA Authentication
-Overview: This application demonstrates a simple implementation of CAPTCHA validation using Flask and Flask-Session-CAPTCHA. It provides a secure way to verify that form submissions are made by humans rather than automated bots, helping to protect your web applications from spam and abuse.
+# 🔐 Flask CAPTCHA Authentication
 
-Features:
-1)Clean, modern UI with responsive design
-2)Server-side session management for enhanced security
-3)Customizable CAPTCHA settings (length, dimensions)
-4)Easy to integrate into existing Flask application
+This project demonstrates a simple yet effective **CAPTCHA validation system** using Flask and `Flask-Session-CAPTCHA`. It helps verify that form submissions are made by humans, not bots — preventing spam and abuse.
 
+---
 
-Output:
-![image](https://github.com/user-attachments/assets/b561af86-b16d-4504-9645-5c06431893f2)
+## 🚀 Features
+
+- ✅ Clean, modern UI with responsive design
+- 🔒 Server-side session management for enhanced security
+- ⚙️ Customizable CAPTCHA (length, image size, etc.)
+- 🧩 Easy integration into any Flask-based application
+
+---
+
+## 📸 Screenshots
+
+| Form Display | CAPTCHA Feedback |
+|--------------|------------------|
+| ![Form](https://github.com/user-attachments/assets/b561af86-b16d-4504-9645-5c06431893f2) | ![Feedback](https://github.com/user-attachments/assets/c95b9441-eb52-4237-a289-207dbb3ec545) |
+
+---
+
+## 📦 Requirements
+
+- Python 3.6+
+- Flask
+- Flask-Session
+- Flask-Session-CAPTCHA
+
+---
+
+## 🔧 Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/flask-captcha-auth.git
+cd flask-captcha-auth
